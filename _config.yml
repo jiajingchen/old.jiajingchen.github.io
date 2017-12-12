@@ -11,10 +11,10 @@ gems:
 #baseurl: "/projectname"
 url: "http://jiajingchen.github.io"
 enforce_ssl: ""
-baseurl: ""
+baseurl: "/"
 
 # Title of website
-title: Jiajing Chen's Homepage
+title: Welcome to Jiajing Chen's Website!
 
 #Default keywords (used if no keywords are specified on a page basis)
 keywords: test1, test2, etc

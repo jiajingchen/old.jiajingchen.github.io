@@ -1,3 +1,23 @@
+
+
+# Jiajing Chen
+
+A simple, minimal, responsive theme built using Jekyll.
+
+You can use this template/theme to build your new or existing site.
+
+DEMO: https://bchetty.com/jekyllBasic/
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jiajingchen/jiajingchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
