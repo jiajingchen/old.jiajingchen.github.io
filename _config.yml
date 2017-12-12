@@ -1,94 +1,86 @@
-# Build settings
-# Gems
-gems: 
-- jekyll-paginate
-- jekyll-feed
+#
+# This file contains configuration flags to customize your site
+#
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-# If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-url: "http://jiajingchen.github.io"
-enforce_ssl: ""
-baseurl: "/"
+# Name of your site (displayed in the header)
+name: Jiajing Chen
 
-# Title of website
-title: Welcome to Jiajing Chen's Website!
+# Short bio or description (displayed in the header)
+description: Jiajing's Website
 
-#Default keywords (used if no keywords are specified on a page basis)
-keywords: test1, test2, etc
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-# Short description of your site
-desc: Sample Description
+#
+# Flags below are optional
+#
 
-# --- Navigation bar options --- #
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: barryclark/jekyll-now
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
 
-# List of links in the navigation bar
-nav-links:
-  Home: ""
-  About Me: "aboutme"
-  Contact: "contact"  
-  
-# --- Footer options --- #
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
 
-# If the values are empty, they are ignored 
-profile:
-  name: Babji Chetty
-  email: Your-Email
-  facebook: your-fb-id
-  github: your-github-id 
-  twitter: your-twitter-id
-  linkedin: your-linkedin-id
-  stackoverflow: your-stackoverflow-id
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
 
-# To display link in the footer section
-pretty-url: "bchetty.com"
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:http://jiajingchen.github.io
 
-# --- Misc --- #
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
 
-# Your Disqus profile (shortname) settings
-disqus: "Your-Disqus-Id"
+#
+# !! You don't need to change any of the configuration flags below !!
+#
 
-# Google Analytics Settings
-google_analytics: "Your-GA-Id"
+permalink: /:title/
 
-# Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
-markdown: kramdown
-#highlighter: rouge
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
-permalink: /blog/:title
-paginate: 5
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: true  # add comments to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "default"
-      show-avatar: true
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
 
-# Exclude these files from production site
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
-
-created-by: Babji, Chetty
-creator-url: https://bchetty.com
