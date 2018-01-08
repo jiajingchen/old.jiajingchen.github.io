@@ -3,11 +3,6 @@ layout: post
 title: The start of my own data science blog
 ---
 
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
 I have just finished my first semester at Harvard Chan School and was very enjoying a short winter break from school. I started to look back on the courses I took so far and some data science and programming I was getting into for the last few months. Before I started my graduate school study, I did a lot of related data science courses and research project in applied machine learning for about two years. I was luck in a sense that those experience gave me a sound foundation for what has been coming up next in my journey to be a data scientist.
 
 I am a faster learning and everyday l am actively learning, growing as an aspiring data scientist, with yet another year ahead in graduate school learning more about statistical methods, algorithms and data structure, machine learning, deep learning, etc.
