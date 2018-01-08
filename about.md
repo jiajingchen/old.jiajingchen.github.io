@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! This is Jiajing Chen.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a master student at Harvard University, focusing on Computational Biology, Biostatistics and Health Data Science. I am an aspiring data scientist and enthusiast in machine learning applications.
 
-### Contact me
+### Miscellaneous
 
-[email@domain.com](mailto:email@domain.com)
+I am very interested in mathematics (both pure maths and applied maths), logic and programming.
+
+I am also a self-taught artist. Here is some of my artwork:
+
+### Contact Information
+
+[makerjiajing@gmail.com](mailto:makerjiajing@gmail.com)
