@@ -12,4 +12,4 @@ I am a master student at Harvard University, focusing on Computational Biology, 
 
 I am very interested in mathematics (both pure maths and applied maths), logic and programming.
 
-I am also a self-taught artist. Here is some of my artwork:
+I am also a self-taught artist. [Here](https://jiajingchen.github.io/art/) is some of my artwork
