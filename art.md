@@ -12,7 +12,7 @@ I am also a self-taught artist. Here is some of my artwork:
 
 ## Oil Paintings
 
-![_config.yml]({{ site.baseurl }}/images/arts/oil/oil1.jpg){:height="36px" width="36px"}
+![_config.yml]({{ site.baseurl }}/images/arts/oil/oil1.jpg){:height="500px" width="400px"}
 ![_config.yml]({{ site.baseurl }}/images/arts/oil/oil2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/arts/oil/oil3.jpg)
 ![_config.yml]({{ site.baseurl }}/images/arts/oil/oil4.jpg)
