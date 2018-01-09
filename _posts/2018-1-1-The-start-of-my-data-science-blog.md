@@ -21,3 +21,9 @@ Here is a list of things I will mainly talk about in this blog:
 
 Here is some of my new year resolutions related to my career path in data science:
 
+- Kaggle
+- Deep learning
+-
+-
+-
+
