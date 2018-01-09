@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Art
-permalink: /art/
+title: Arts
+permalink: /arts/
 ---
 
 Hi! This is Jiajing Chen.
@@ -10,5 +10,12 @@ Hi! This is Jiajing Chen.
 I am also a self-taught artist. Here is some of my artwork:
 
 
+## Oil Paintings
+
+## Watercolour
+
+## Figure Drawing
+
+## Sketches
 
 
