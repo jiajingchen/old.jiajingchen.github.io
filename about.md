@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi! This is Jiajing Chen.
 
-I am a master student at Harvard University, focusing on Computational Biology, Biostatistics and Health Data Science. I am an aspiring data scientist and enthusiast in machine learning applications.
+Hi! This is Jiajing Chen. I am a master student at Harvard University, focusing on Computational Biology, Biostatistics and Health Data Science. I am an aspiring data scientist and enthusiast in machine learning applications.
 
 ### Miscellaneous
 
