@@ -12,11 +12,20 @@ I am also a self-taught artist. Here is some of my artwork:
 
 ## Oil Paintings
 
-![_config.yml]({{ site.baseurl }}/images/datasciencepath.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/oil/oil1.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/oil/oil2.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/oil/oil3.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/oil/oil4.jpg)
 
 ## Watercolour
+![_config.yml]({{ site.baseurl }}/images/arts/watercolour/1.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/watercolour/2.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/watercolour/3.jpg)
+
 
 ## Figure Drawing
+![_config.yml]({{ site.baseurl }}/images/arts/figure/1.jpg)
+
 
 ## Sketches
 
