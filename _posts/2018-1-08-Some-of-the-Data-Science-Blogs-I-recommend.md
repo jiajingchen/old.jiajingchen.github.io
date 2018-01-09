@@ -20,3 +20,5 @@ A statistics blog by Rafael Irizarry, Roger Peng, and Jeff Leek, Professors in B
 
 [FastML](http://fastml.com)
 The blog was started by Zygmunt (an economist) with a vision to make Machine Learning as easy as possible.  The writers of this blog share plenty of useful tips on how to use machine learning to solve complex business problems.
+
+More to come next...
