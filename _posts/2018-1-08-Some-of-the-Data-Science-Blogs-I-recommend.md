@@ -10,7 +10,7 @@ David Robinson is a data scientist at Stack Overflow.
 By the way, I also like the name "variance explained"!
 
 
-[Willian Chen's blog](http://www.wzchen.com)
+[William Chen's blog](http://www.wzchen.com)
 Willian Chen is a data scientist at Quora. There are a lot of things to explore on his amazing website. For example, the [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet) is extremely helpful. Also, check out the [data science handbook](http://www.thedatasciencehandbook.com) which is a must for data science interview prep!
 
 
