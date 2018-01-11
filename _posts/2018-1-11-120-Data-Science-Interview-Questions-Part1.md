@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 120 Data Science Interview Questions Series Part 1: Pr
+title: 120 Data Science Interview Questions Series-Predictive modeling
 ---
 
 Let's crack the data science interview together! Recently I found this amazing [120 Data Science Interview Questions](http://www.datasciencequestions.com) written by [William Chen](http://www.wzchen.com) and other data scientists. I shared with some of my data science friends and classmates. We decided to first do all the problem set on our own and then discuss it together. Here is some of the answer I have for those questions. I also refer to other source like Google , Quora, Stack Overflow, etc.
