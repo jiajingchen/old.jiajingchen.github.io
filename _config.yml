@@ -6,7 +6,11 @@
 name: Jiajing Chen's Website
 
 # Short bio or description (displayed in the header)
+<<<<<<< HEAD
 description: Graduate Student, Aspiring Data Scientist, Potential Artist
+=======
+description: Jiajing Chen, Graduate Student, Aspiring Data Scientist, Potential Artist
+>>>>>>> 7ba51202d50502414564aedbe096042edde32964
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://jiajingchen.github.io/images/logo.jpg
