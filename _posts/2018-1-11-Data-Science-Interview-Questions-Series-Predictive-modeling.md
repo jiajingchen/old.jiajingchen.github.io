@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science Interview Questions Series: Predictive modeling 1
+title: Data Science Interview Questions Series Predictive modeling 1
 ---
 
 Let's crack the data science interview together! Recently I found this amazing [120 Data Science Interview Questions](http://www.datasciencequestions.com) written by [William Chen](http://www.wzchen.com) and other data scientists. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science Interview Questions Series: Predictive modeling 2
+title: Data Science Interview Questions Series Predictive modeling 2
 ---
 
 
