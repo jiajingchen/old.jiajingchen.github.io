@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 120 Data Science Interview Questions Series-Predictive modeling
+title: Data Science Interview Questions Series: Predictive modeling
 ---
 
 Let's crack the data science interview together! Recently I found this amazing [120 Data Science Interview Questions](http://www.datasciencequestions.com) written by [William Chen](http://www.wzchen.com) and other data scientists. I shared with some of my data science friends and classmates. We decided to first do all the problem set on our own and then discuss it together. Here is some of the answer I have for those questions. I also refer to other source like Google , Quora, Stack Overflow, etc.
@@ -20,8 +20,39 @@ This depends on the given dataset and the question behind the dataset. Generally
 
 ### Q2
 What could be some issues if the distribution of the test data is signicantly different than the distribution of the training data? 
+#### Ans:
 
 ### Q3
+What are some ways I can make my model more robust to outliers? 
+#### Ans:
+
+### Q4
+
+What are some di erences you would expect in a model that minimizes squared error, versus a model that minimizes absolute error? In which cases would each error metric be appropriate?
+
+#### Ans:
+
+### Q5
+
+#### Ans:
+
+### Q6
+
+#### Ans:
+
+### Q7
+
+#### Ans:
+
+### Q8
+
+#### Ans:
+
+### Q9
+
+#### Ans:
+
+### Q10
 
 
 More questions and answers to come next...
