@@ -24,18 +24,18 @@ I am also a self-taught artist. Here is some of my artwork:
 
 
 ## Figure Drawing
-![_config.yml]({{ site.baseurl }}/images/arts/figure/1.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/2.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/3.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/4.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/5.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/6.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/7.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/8.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/9.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/10.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/11.jpg)
-![_config.yml]({{ site.baseurl }}/images/arts/figure/12.jpg)
+![_config.yml]({{ site.baseurl }}/images/arts/figure/1.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/2.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/3.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/4.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/5.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/6.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/7.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/8.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/9.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/10.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/11.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/arts/figure/12.jpg){:width="400px"}
 
 
 ## Sketches

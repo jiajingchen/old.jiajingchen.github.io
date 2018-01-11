@@ -10,6 +10,7 @@ title: Data Science Interview Questions Series Predictive modeling 2
 Yet another frequent asked question!
 Well,
 
+Reference: [Quora](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
 ### Q7 What is regularization and where might it be helpful? What is an example of using regularization in a model?
 
 
