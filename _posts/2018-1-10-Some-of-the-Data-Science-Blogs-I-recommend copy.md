@@ -7,6 +7,8 @@ title: Data Science Interview Questions Series Predictive modeling 2
 ### Q6 What are various ways to predict a binary response variable? Can you compare two of them and tell me when one would be more appropriate? What’s the difference between these? (SVM, Logistic Regression, Naive Bayes, Decision Tree, etc.)
 
 #### Ans:
+Yet another frequent asked question!
+Well,
 
 ### Q7 What is regularization and where might it be helpful? What is an example of using regularization in a model?
 
