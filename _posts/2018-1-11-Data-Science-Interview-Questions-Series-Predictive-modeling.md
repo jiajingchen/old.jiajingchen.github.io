@@ -50,7 +50,11 @@ Reference: [Quora](https://www.quora.com/What-are-methods-to-make-a-predictive-m
 #### Ans:
 
 Both mean squared error (MSE) and absolute deviations (MAD) are used in predictive modeling. MSE has nice mathematical properties which makes it easier to compute the gradient. However, MAE requires more complicated tools such as linear programming to compute the gradient. Because of the square, large errors have relatively greater influence on MSE than do the smaller error. 
-Minimizing square errors (MSE) is not the same as minimizing absolute deviations (MAD) of errors. MSE provides the **mean response** of $y$ conditioned on $x$, while MAD provides the **median response** of $y$ conditioned on $x$.
+ 
+Minimizing square errors (MSE) is not the same as minimizing absolute deviations (MAD) of errors. MSE provides the **mean response** of y conditioned on x, while MAD provides the **median response** of y conditioned on x.
+
+Minimizing the squared error (L2) over a set of numbers results in finding its mean, and minimizing the absolute error (L1) results in finding its median. (And minimizing the L0 error results in finding the modes.)
+------
 
 Now especially when considering the estimation of regressions (e.g. OLS), different penalty functions will yield different results. Using the linearly proportional penalty function, the regression will assign less weight to outliers than when using the squared proportional penalty function. The Median Absolute Deviation (MAD) is therefore known to be a more robust estimator. In general, it is therefore the case that a robust estimator fits most of the data points well but **ignores outliers**. A least squares prevents large errors better, and fit, in comparison, is **pulled more towards the outliers**. If you have a data set with an extreme outlier due to a data acquisition error, minimizing squared error will pull the fit towards the extreme outlier much more than minimizing absolute error. That being said, it's usually better to use squared error.
 
@@ -58,7 +62,7 @@ Here is a visualization for comparison:(from Reference)
 
 ![_config.yml]({{ site.baseurl }}/images/post/msemad.png)
 
-reference: [Stack Exchange](https://stats.stackexchange.com/questions/147001/is-minimizing-squared-error-equivalent-to-minimizing-absolute-error-why-squared),[Quora](https://www.quora.com/What-is-the-difference-between-squared-error-and-absolute-error)
+reference: [Stack Exchange](https://stats.stackexchange.com/questions/147001/is-minimizing-squared-error-equivalent-to-minimizing-absolute-error-why-squared),[Quora](https://www.quora.com/What-is-the-difference-between-squared-error-and-absolute-error), [Quora2](https://www.quora.com/How-would-a-model-change-if-we-minimized-absolute-error-instead-of-squared-error-What-about-the-other-way-around)
 
 ### Q5 What error metric would you use to evaluate how good a binary classifier is? What if the classes are imbalanced? What if there are more than 2 groups?
 
@@ -71,25 +75,38 @@ There are several measure we can evaluate a classifier and some are used under s
 
 - What error metric would you use to evaluate how good a binary classifier is?
 **Accuracy**
-
+Definition: Proportion of instances you predict correctly.
+Strengths: Very intuitive and easy to explain.
+Weaknesses: Works poorly when class is imbalance. 
 
 **AUC**
-[ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+Definition (intuitive) - Given a random positive instance and a random negative instance, the probability that you can distinguish between them.
+Definition (direct) - The area under the [ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic).
+Strengths - Works well when you want to be able to test your ability to distinguish the two classes.
+Weaknesses - You may not be able to interpret your predictions as probabilities if you use AUC, since AUC only cares about the rankings of your prediction scores and not their actual value. Thus you may not be able to express your uncertainty about a prediction, or even the probability that an item is successful.
+
+**LogLoss / Deviance**
+Strengths: Your estimates can be interpreted as probabilities.
+Weaknesses: If you have a lot of predictions that are near the boundaries, your error metric may be very sensitive to false positives or false negatives.
 
 **F score**
+
 In statistical analysis of binary classification, the [F score](https://en.wikipedia.org/wiki/F1_score) (also F-score or F-measure) is a measure of a test's accuracy. It considers both the precision p and the recall r of the test to compute the score: p is the number of correct positive results divided by the number of all positive results returned by the classifier, and r is the number of correct positive results divided by the number of all relevant samples. Relevant is equivalent to actually having the disease. The F1 score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0.
 
+**Other measure**
+MCC, [Brier score](https://en.wikipedia.org/wiki/Brier_score)
 
 - What if the classes are imbalanced?
 
-Precision-Recall instead of ROC curve.
+Use Precision-Recall curve instead of ROC curve.
 
- If you are again dealing with an unbalanced dataset, you have two options for averaging: macro-averaging and micro-averaging. Micro-averaged F will give you a sense of how well you do on the large classes, while the macro-average will give you a sense for the small classes. See chapter 13 of [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) for details.
+ If you are dealing with an unbalanced dataset, you have two options for averaging: macro-averaging and micro-averaging. Micro-averaged F will give you a sense of how well you do on the large classes, while the macro-average will give you a sense for the small classes. See chapter 13 of [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) for details.
  
 - What if there are more than 2 groups?
 
 If you are dealing with multiclass classification, one standard thing you could do is calculate the F-score per class and then average the results.
 
-Reference: [Evaluation metrics for binary classification](http://www.sergulaydore.com/evaluation-metrics-for-binary-classification/), Quora
+Reference: [Evaluation metrics for binary classification](http://www.sergulaydore.com/evaluation-metrics-for-binary-classification/), [Quora]()
 
 More questions and answers to come next...
