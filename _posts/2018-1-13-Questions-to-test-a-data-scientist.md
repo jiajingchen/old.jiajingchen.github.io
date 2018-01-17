@@ -3,7 +3,7 @@ layout: post
 title: Questions to test a data scientist!
 ---
 
-Here comes some questions to test your data science skills!
+Here come some questions to test your data science skills!
 
 [40 Questions on Probability for data science ](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 

@@ -3,7 +3,7 @@ layout: post
 title: Things to do in 2018
 ---
 
-Here comes my new year resolutions!
+Here come my new year resolutions!
 
 - Some side projects in data science
 
