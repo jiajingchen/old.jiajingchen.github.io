@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things to do in 2018
+title: Questions to test a data scientist!
 ---
 
 Here comes some questions to test your data science skills!
