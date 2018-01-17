@@ -3,7 +3,7 @@ layout: post
 title: Some of the data science blogs I highly recommend
 ---
 
-Here is some blogs in data science I like to read and highly recommend:) 
+Here are some blogs in data science I like to read and highly recommend:) 
 
 [David Robinson's blog](http://varianceexplained.org)
 David Robinson is a data scientist at Stack Overflow.
