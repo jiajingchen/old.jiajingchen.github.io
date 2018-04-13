@@ -6,7 +6,7 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/logo.jpg){:width="400px"}
 
-Hi! This is Jiajing Chen. I am a master student at Harvard University, focusing on Computational Biology, Biostatistics. I am an aspiring data scientist and enthusiast in machine learning applications.
+Hi! This is Jiajing Chen. I am a master student at Harvard University, focusing on Health Data Science and Biostatistics. I am an aspiring data scientist and enthusiast in machine learning, deep learning applications in the industry.
 
 
 ### Miscellaneous
