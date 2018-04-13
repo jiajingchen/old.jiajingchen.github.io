@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/logo.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/logo.jpg){:width="300px"}
 
 Hi! This is Jiajing Chen. I am a master student at Harvard University, focusing on Health Data Science and Biostatistics. I am an aspiring data scientist and enthusiast in machine learning, deep learning applications in the industry.
 
@@ -15,7 +15,7 @@ I am very interested in mathematics (both pure maths and applied maths), statist
 
 I am also a self-taught artist. [Here](https://jiajingchen.github.io/arts/) is some of my artwork. I like photography and [here](https://jiajingchen.github.io/photos/) is some of my exploration of the world around me.
 
-![_config.yml]({{ site.baseurl }}/images/1.jpg){:width="400px"}
+![_config.yml]({{ site.baseurl }}/images/1.jpg){:width="300px"}
 
 
 ### Contact Info
