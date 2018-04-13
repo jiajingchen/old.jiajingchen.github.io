@@ -11,7 +11,7 @@ Hi! This is Jiajing Chen. I am a master student at Harvard University, focusing 
 
 ### Miscellaneous
 
-I am very interested in mathematics (both pure maths and applied maths), logic and programming. I like reading, drawing, playing video games. I am, a very versatile person and almost always get interested in all kinds of things around me quite easily. I am a self-driven person and a fast learner.
+I am very interested in mathematics (both pure maths and applied maths), statistics, logic and programming. I like reading, drawing, playing video games. I am, a very versatile person and almost always get interested in all kinds of things around me quite easily. I am a self-driven person and a fast learner.
 
 I am also a self-taught artist. [Here](https://jiajingchen.github.io/arts/) is some of my artwork. I like photography and [here](https://jiajingchen.github.io/photos/) is some of my exploration of the world around me.
 
