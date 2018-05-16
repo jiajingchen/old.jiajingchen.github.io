@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The start of data science summer internship
+title: The start of my data science summer internship
 ---
 
 I have just finished my first year at Harvard Chan School. Right after my finals, I packed all my luggages and moved to Columbus, Ohio. I will be working as a data science intern at Nationwide Customer Insights and Analytics department.
