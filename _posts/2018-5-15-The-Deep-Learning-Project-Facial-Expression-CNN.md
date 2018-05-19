@@ -16,9 +16,15 @@ The original training set consists of 28,709 examples. The original test set con
 
 ### The Model
 Here, we first approached this project by specifying out clearly our primary purpose--classify provided greyscale pictures into one out of six labels. The picture classification task natually leads us to well-known Convolutional Neural Network (CNN). After researching around how CNN usually performs for greyscale picture, we decided to start from three sequential convolutional layers followed by a maxpooling layer, common activation function for convolutional layer "relu" is used, as well as the same padding pattern. Then, from the basic structure, we further added more and more convolutional layers with different features captured. The features to be captured from convolutional layer increased from 32 to 128, it is suggested that such hierarchical structure (with increasing layer nodes) performs better for deep neural network. Finally, the convolved layer is first flattened and then go through two more dense layers to reach the output layer in which softmax activation function is used for multiclass classification (six classes in total).
+![_config.yml]({{ site.baseurl }}/images/post/cnn1.png)
+![_config.yml]({{ site.baseurl }}/images/post/cnn2.png)
 
 ### Model Evaluation
-
+Some sample output of our model with corresponding image:
+![_config.yml]({{ site.baseurl }}/images/post/output1.png)
+![_config.yml]({{ site.baseurl }}/images/post/output2.png)
+confusion matrix
+![_config.yml]({{ site.baseurl }}/images/post/matrix.png)
 
 ### The code
 Here is my [Github repo](https://github.com/jiajingchen/Deep-Learning-Project-Facial-Expression-Classification) for this project.
