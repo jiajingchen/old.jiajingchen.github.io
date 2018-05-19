@@ -26,7 +26,7 @@ I recently bought this book at the Harvard COOP and really liked it! Some questi
 
 #### About my own interview experience
 
-I have been interviewed with some companies (investment banks and HFs) on Wall Streets but I didn't get the internship offer from them at last. But the experience is very precious to me though. I will, at certain point, share something about it, I promise! 
+I have been interviewed with some companies (investment banks and HFs) on Wall Streets but I didn't get the internship offer from them at last. But the experience was very precious to me though. I will, at certain point, share something about it, I promise! 
 
 This semester I have took STAT171: Introduction to Stochastic Processes, which is a great undergraduate course. Although my original goal for taking this course is to just challenge myself and learn it for fun, some materials may also help to prepare the "Quant" job interview on wall street.
 
