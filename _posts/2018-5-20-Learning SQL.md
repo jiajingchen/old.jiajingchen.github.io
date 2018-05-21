@@ -13,6 +13,7 @@ WHERE
 GROUP BY
 HAVING
 JOIN
+etc...
 
 Some resource for learning SQL:
 [w3schools SQL Tutorial](https://www.w3schools.com/sql/)

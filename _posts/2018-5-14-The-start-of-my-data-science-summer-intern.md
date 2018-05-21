@@ -3,7 +3,7 @@ layout: post
 title: The start of my data science summer internship
 ---
 
-I have just finished my first year as a graduate student. Right after my finals, I packed all my stuff and moved to Columbus, Ohio. I will be working as a data science intern within the Customer Insights and Analytics Departmentn at Nationwide.
+I have just finished my first year as a graduate student. Right after my finals, I packed all my stuff and moved to Columbus, Ohio. I will be working as a data science intern within the Customer Insights and Analytics Department at Nationwide.
 
 This is a brand new start for my career in data science and I will update my experience as a data science intern in this blog!
 
